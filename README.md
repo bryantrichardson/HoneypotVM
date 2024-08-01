@@ -16,7 +16,7 @@ Below I will provide some screenshots of the process of making this project. I w
 * **Kusto Query Language Script**
 * **Log Analytics Workspace on Microsoft Azure**
 * **Microsoft Defender for Cloud on Microsoft Azure**
-* **IPGeolocation.io**
+* **ipgeolocation.io**
 
 ## Screenshots
 <img width="290" alt="PublicProfileFW-Off" src="https://github.com/user-attachments/assets/b662fb7b-9156-4865-ad61-0dc3ab6ce75d">
@@ -31,4 +31,7 @@ Below I will provide some screenshots of the process of making this project. I w
 <img width="880" alt="Anastasia-Script" src="https://github.com/user-attachments/assets/4773a2c8-dda2-4df1-b9ef-4e850084c7aa">
 
 <img width="406" alt="map" src="https://github.com/user-attachments/assets/1e508978-c3f6-4dad-ada3-9fdc8462a529">
+
+## References
+* **<a href="https://www.youtube.com/watch?v=RoZeVbbZ0o0>Josh Madakor YouTube video</a>**
 

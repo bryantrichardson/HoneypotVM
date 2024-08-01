@@ -19,3 +19,5 @@ Below I will provide some screenshots of the process of making this project. I w
 * **IPGeolocation.io**
 
 ## Screenshots
+<img width="931" alt="JoshMadakor-Script" src="https://github.com/user-attachments/assets/1ab050a0-08f1-4b5a-b616-5d31b5363d37">
+

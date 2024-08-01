@@ -28,7 +28,7 @@ I also setup a Log Analytics Workspace on Azure as well as configuring/connectin
 Connecting my VM to Microsoft Sentinel was the next step of the process.<br>
 
 <img width="931" alt="JoshMadakor-Script" src="https://github.com/user-attachments/assets/1ab050a0-08f1-4b5a-b616-5d31b5363d37"><br>
-Above is a snippet of Josh Madakor's Log Exporter script (it is linked down in sources if you would like to see all of it). Running this script in Windows Powershell ISE will create an output of all of the failed RDP login attempts happening across the world that resembles the screenshot below.<br>
+Above is a snippet of Josh Madakor's Log Exporter script (my bad on the screenshot quaity, but it is linked down in sources in its entirety if you would like to see all of it). Running this script in Windows Powershell ISE will create an output of all of the failed RDP login attempts happening across the world outputting it in a logfile that is shown below.<br>
 <img width="960" alt="sample of what failed rdp log" src="https://github.com/user-attachments/assets/024be92b-a950-4c3c-8bfa-d5126ed6a853">
 
 <img width="880" alt="Anastasia-Script" src="https://github.com/user-attachments/assets/4773a2c8-dda2-4df1-b9ef-4e850084c7aa">

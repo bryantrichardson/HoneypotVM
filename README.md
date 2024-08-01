@@ -19,5 +19,15 @@ Below I will provide some screenshots of the process of making this project. I w
 * **IPGeolocation.io**
 
 ## Screenshots
+<img width="290" alt="PublicProfileFW-Off" src="https://github.com/user-attachments/assets/b662fb7b-9156-4865-ad61-0dc3ab6ce75d">
+
+<img width="284" alt="PrivateProfileFW-Off" src="https://github.com/user-attachments/assets/c7ef7e4a-3be7-4bdc-9914-42d88ac8b875">
+
+<img width="290" alt="DomainProfileFW-Off" src="https://github.com/user-attachments/assets/5f190d89-2a99-4ba5-89d2-88990123fd4e">
+
+
 <img width="931" alt="JoshMadakor-Script" src="https://github.com/user-attachments/assets/1ab050a0-08f1-4b5a-b616-5d31b5363d37">
+
+<img width="880" alt="Anastasia-Script" src="https://github.com/user-attachments/assets/4773a2c8-dda2-4df1-b9ef-4e850084c7aa">
+
 

@@ -38,7 +38,7 @@ Below I will provide some screenshots of the process of making this project. I w
 * <a href="https://medium.com/@michaellopezcs17/how-to-create-a-siem-microsoft-sentinel-2024-46ab6c7cfb8c">Michael Lopez Github</a>
    * One of the sources to help with the outdated parts.
 * <a href="https://github.com/joshmadakor1/Sentinel-Lab/blob/main/Custom_Security_Log_Exporter.ps1">Josh Madakor's Log Exploiter Script</a>
-* The script that is key to automation and helping create the map.
+   * The script that is key to automation and helping create the map.
 * <a href="https://github.com/AnastasiaCoskuner/Sentinel-Lab/blob/main/query_log">Anastasia Coskuner's Query Log Script</a>
    * Helped with one of the outdated parts in the video as well.
 * <a href="https://ipgeolocation.io/">IPGeolocatio.io</a>

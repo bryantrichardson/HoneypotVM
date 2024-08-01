@@ -19,7 +19,7 @@ Below I will provide some screenshots of the process of making this project. I w
 * **ipgeolocation.io**
 
 ## Screenshots  <br>
-ss
+Setting up the actual honeypot was relatively easy. The only thing I had to change about the initial setup of the VM was to configure a custom network security group that allowed for any/all inbound connections. <br>
 <img width="284" alt="PublicProfileFW-Off" src="https://github.com/user-attachments/assets/b662fb7b-9156-4865-ad61-0dc3ab6ce75d">
 
 <img width="284" alt="PrivateProfileFW-Off" src="https://github.com/user-attachments/assets/c7ef7e4a-3be7-4bdc-9914-42d88ac8b875">

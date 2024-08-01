@@ -34,12 +34,12 @@ Below I will provide some screenshots of the process of making this project. I w
 
 ## References
 * <a href="https://www.youtube.com/watch?v=RoZeVbbZ0o0">Josh Madakor YouTube video</a>
-* * His video was extremely helpful. It is a smide outdated by now, but by either looking in the comments or online you can figure out the outdated parts fairly easily.
+ * His video was extremely helpful. It is a smidge outdated by now, but by either looking in the comments or online you can figure out the outdated parts fairly easily.
 * <a href="https://medium.com/@michaellopezcs17/how-to-create-a-siem-microsoft-sentinel-2024-46ab6c7cfb8c">Michael Lopez Github</a>
-* * One of the sources to help with the outdated parts
+ * One of the sources to help with the outdated parts
 * <a href="https://github.com/joshmadakor1/Sentinel-Lab/blob/main/Custom_Security_Log_Exporter.ps1">Josh Madakor's Log Exploiter Script</a>
 * <a href="https://github.com/AnastasiaCoskuner/Sentinel-Lab/blob/main/query_log">Anastasia Coskuner's Query Log Script</a>
-* * Helped with one of the outdated parts in the video as well.
+ * Helped with one of the outdated parts in the video as well.
 * <a href="https://ipgeolocation.io/">IPGeolocatio.io</a>
-* * The website/API that made the whole map part doable
+ * The website/API that made the whole map part doable
 

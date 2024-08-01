@@ -41,6 +41,6 @@ Below I will provide some screenshots of the process of making this project. I w
    * The script that is key to automation and helping create the map.
 * <a href="https://github.com/AnastasiaCoskuner/Sentinel-Lab/blob/main/query_log">Anastasia Coskuner's Query Log Script</a>
    * Helped with one of the outdated parts in the video as well.
-* <a href="https://ipgeolocation.io/">IPGeolocatio.io</a>
+* <a href="https://ipgeolocation.io/">ipgeolocation.io</a>
    * The website/API that made the whole map part doable.
 

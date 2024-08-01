@@ -30,11 +30,10 @@ Above is a snippet of Josh Madakor's Log Exporter script (my bad on the screensh
 <img width="960" alt="sample of what failed rdp log" src="https://github.com/user-attachments/assets/024be92b-a950-4c3c-8bfa-d5126ed6a853"><br>
 After creating a custom log in Windows Azure that is trained on the previous logfile, I was then able to use Anastasia's Script (below) to query the custom log into a more readable format. I chose the map to illustrate where all of the failed RDP logins are occurring across the world.
 <img width="880" alt="Anastasia-Script" src="https://github.com/user-attachments/assets/4773a2c8-dda2-4df1-b9ef-4e850084c7aa"><br>
-I left the VM open for roughly two and a half days, but somehow all of the attacks only came from 3 places. The one US login attempt was me testing to see if it worked in the beginning. There were already several failed login attempts before mine which was pretty scary/kind of interesting to be honest.<br>
+I left the VM open for roughly a day and a half, but somehow all of the attacks only came from 3 places. The one US login attempt was me testing to see if it worked in the beginning. There were already several failed login attempts before mine which was pretty scary/kind of interesting to be honest.<br>
 <img width="606" alt="map" src="https://github.com/user-attachments/assets/1e508978-c3f6-4dad-ada3-9fdc8462a529"><br>
 Overall, this project was very interesting and eye opening in regards to security. The fact other RDP login attempts were attempted before I could even test to see it worked was very exciting in a way. It would be interesting to see just how many non-RDP attempts were made against my honeypot, but perhaps I will do that in another project. <br><br> 
-Thanks for reading and hope you have a great rest of your day/night :).
-
+Thanks for reading and hope you have a great rest of your day/night :).<br>
 ## Sources
 * <a href="https://www.youtube.com/watch?v=RoZeVbbZ0o0">Josh Madakor YouTube video</a>
    * His video was extremely helpful. It is a smidge outdated by now, but by either looking in the comments or online you can figure out the outdated parts fairly easily.

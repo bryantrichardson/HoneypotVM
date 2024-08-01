@@ -10,10 +10,11 @@ Below I will provide some screenshots of the process of making this project. I w
 ## Environments Used
 * **Microsoft Azure**
 * **Microsoft Sentinel**
-
-<br> <br>
+  
 ## Tools Used
 * **Windows Powershell ISE Script**
 * **Kusto Query Language Script**
 * **Log Analytics Workspace on Microsoft Azure**
 * **Microsoft Defender for Cloud on Microsoft Azure**
+
+## Screenshots

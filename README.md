@@ -1,4 +1,4 @@
-# Honeypot VM with Sentinel Analysis
+# Honeypot VM with Microsoft Azure Sentinel Analysis
 
 ## Description
 In this project, I setup a purposefully vulnerable virtual machine (VM) on Microsoft Azure to entice malicious actors to attempt login on the machine. This purposefully vulnerable VM is known as a honeypot. Through a series of tasks to enable log exportation automatically and using <a href="https://ipgeolocation.io/">IPGeolcation.io<a/>, I was able to pinpoint where all of these malicious login attempts were happening across a map.<br><br>
@@ -7,4 +7,13 @@ This project was very eye opening in terms of seeing just how many malicious log
 
 Below I will provide some screenshots of the process of making this project. I will not delve into a step by step process, but I will provide a blurb related to each screenshot. <br><br>
 
-## Screenshots
+## Environments Used
+* **Microsoft Azure**
+* **Microsoft Sentinel**
+
+<br> <br>
+## Tools Used
+* **Windows Powershell ISE Script**
+* **Kusto Query Language Script**
+* **Log Analytics Workspace on Microsoft Azure**
+* **Microsoft Defender for Cloud on Microsoft Azure**

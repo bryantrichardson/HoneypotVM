@@ -30,4 +30,5 @@ Below I will provide some screenshots of the process of making this project. I w
 
 <img width="880" alt="Anastasia-Script" src="https://github.com/user-attachments/assets/4773a2c8-dda2-4df1-b9ef-4e850084c7aa">
 
+<img width="406" alt="map" src="https://github.com/user-attachments/assets/1e508978-c3f6-4dad-ada3-9fdc8462a529">
 

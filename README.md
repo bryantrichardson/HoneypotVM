@@ -5,7 +5,7 @@ In this project, I setup a purposefully vulnerable virtual machine (VM) on Micro
 
 This project was very eye opening in terms of seeing just how many malicious login attempts were tried in such a short amount of time. In fact, before I could even RDP into my VM, there were already several attempts logged in my file. I also learned just how important scripting/automation is in regards to security. Simply monitoring the Windows Event Viewer was not enough nor even feasible and I only have one machine going. I could not imagine doing that across an enterprise to say the least. With scripting/autonation however, the task of logging malicious login attempts was made very simply especially with the ability to view the map as well.<br><br>
 
-Below I will provide some screenshots of the process of making this project. I will not delve into a step by step process, but I will provide a blurb related to each screenshot. <br><br>
+Below I will provide some screenshots of the process of making this project. I will not delve into a step by step process, but I will provide a blurb related to each screenshot. <br>
 
 ## Environments Used
 * **Microsoft Azure**
